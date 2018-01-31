@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 FILE=updater-script
 
 if [ ! -z "$1" ]
